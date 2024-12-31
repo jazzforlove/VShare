@@ -7,6 +7,10 @@
 
 1.  https://gh-proxy.com/github.com/jazzforlove/VShare/blob/main/default.json
 
+2.  https://gitee.com/workair/player/raw/master/tv.json
+
+3.  https://ghgo.xyz/github.com/YYDS678/uzVideo/raw/main/video_sources_default.json
+
 #### IPTV资源 （app端使用“在线订阅”）
 
 1.  iptv6电视（推荐使用）,http://ww.zouming.com/ipv6.txt
