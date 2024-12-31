@@ -5,7 +5,7 @@
 
 #### VOD资源 （app端使用“在线订阅”）
 
-1.  https://gitee.com/12js12/VShare/raw/master/default.json
+1.  [https://gitee.com/12js12/VShare/raw/master/default.json](https://raw.githubusercontent.com/jazzforlove/VShare/main/default.json)
 
 #### IPTV资源 （app端使用“在线订阅”）
 
