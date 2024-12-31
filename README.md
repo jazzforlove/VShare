@@ -5,7 +5,7 @@
 
 #### VOD资源 （app端使用“在线订阅”）
 
-1.  https://ghp.xptvhelper.link/https://raw.githubusercontent.com/jazzforlove/VShare/main/default.json
+1.  https://gh-proxy.com/github.com/jazzforlove/VShare/blob/main/default.json
 
 #### IPTV资源 （app端使用“在线订阅”）
 
