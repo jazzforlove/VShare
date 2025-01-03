@@ -3,6 +3,9 @@
 #### 介绍
 为了让用户更加便捷使用VPlayer视频播放器，在此分享常用资源（VOD、IPTV、AList、Emby），声明：资源均来源于网络，请勿相信视频中广告。
 
+### Testfight
+https://testflight.apple.com/join/zAFJpGzc
+
 #### VOD资源 （app端使用“在线订阅”）
 
 1.  https://gh-proxy.com/github.com/jazzforlove/VShare/blob/main/default.json
@@ -14,64 +17,66 @@
 #### IPTV资源 （app端使用“在线订阅”）
 
 1.  iptv6电视（推荐使用）,http://ww.zouming.com/ipv6.txt
+2.  
+3.  随机系统(音乐、视频、壁纸),https://gh-proxy.com/github.com/jazzforlove/VShare/blob/main/random.m3u
 
-2.  总统电视,https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724505579710/总统电视27.txt
+4.  总统电视,https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724505579710/总统电视27.txt
 
-3.  肥羊•斗鱼,https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u
+5.  肥羊•斗鱼,https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u
 
-4.  肥羊•虎牙,https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u
+6.  肥羊•虎牙,https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u
 
-5.  YanG•斗鱼,https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u
+7.  YanG•斗鱼,https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u
 
-6.  YanG•虎牙,https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u
+8.  YanG•虎牙,https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u
 
-7.  斗鱼一起看,https://live.freetv.top/douyuyqk.m3u
+9.  斗鱼一起看,https://live.freetv.top/douyuyqk.m3u
 
-8.  虎牙一起看,https://live.freetv.top/huyayqk.m3u
+10.  虎牙一起看,https://live.freetv.top/huyayqk.m3u
 
-9.  YY轮播,https://lunbo.freetv.top/yylunbo.m3u
+11.  YY轮播,https://lunbo.freetv.top/yylunbo.m3u
 
-10. TVradio,https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
+12. TVradio,https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio
 
-11. 国内TV大全,https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+13. 国内TV大全,https://ghgo.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 
-12. LU大佬直播源,https://d.kstore.dev/download/8344/dslb.txt
+14. LU大佬直播源,https://d.kstore.dev/download/8344/dslb.txt
 
-13. 仰望天空大佬源,https://11783.kstore.space/11783.txt
+15. 仰望天空大佬源,https://11783.kstore.space/11783.txt
 
-14. 春盈天下,http://xhztv.top/cytx.txt
+16. 春盈天下,http://xhztv.top/cytx.txt
 
-15. 码点小干货,http://mdxgh.tpddns.cn:9999/new/live.txt
+17. 码点小干货,http://mdxgh.tpddns.cn:9999/new/live.txt
 
-16. 三网通用V4央卫源,http://cqitv.fh4u.org/iptv/20241127/gitv.txt
+18. 三网通用V4央卫源,http://cqitv.fh4u.org/iptv/20241127/gitv.txt
 
-17. 恒星育华学堂源,http://yuhuahx.com/dsj66.txt
+19. 恒星育华学堂源,http://yuhuahx.com/dsj66.txt
 
-18. 传说大佬源,http://kkk.jjjj.jiduo.me/user/tttt/api.txt
+20. 传说大佬源,http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 
-19. 专享大佬源,https://live.iptv365.org/live.txt
+21. 专享大佬源,https://live.iptv365.org/live.txt
 
-20. 自动更新酒店源,https://ghp.ci/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt
+22. 自动更新酒店源,https://ghp.ci/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt
 
-21. 看电视呗源,http://8.138.7.223/live.txt
+23. 看电视呗源,http://8.138.7.223/live.txt
 
-22. DJ音乐源,http://l.gmbbk.com/upload/93699369.txt
+24. DJ音乐源,http://l.gmbbk.com/upload/93699369.txt
 
-23. 央卫+地方,http://182.92.109.190:1668/zbtz1/zbtz1.php
+25. 央卫+地方,http://182.92.109.190:1668/zbtz1/zbtz1.php
 
-24. IPV6专用,https://jihulab.com/yiyo/999/-/raw/main/tv.txt
+26. IPV6专用,https://jihulab.com/yiyo/999/-/raw/main/tv.txt
 
-25. 聚玩盒子源,http://xhztv.top/zbc.txt
+27. 聚玩盒子源,http://xhztv.top/zbc.txt
 
-26. IPV6专用2,http://www.lyyytv.cn/yt/zhibo/1.txt
+28. IPV6专用2,http://www.lyyytv.cn/yt/zhibo/1.txt
 
-27. 某视家源,https://ghp.ci/https://raw.githubusercontent.com/sihan0502/TVBox/SH/SH/tv/live.txt
+29. 某视家源,https://ghp.ci/https://raw.githubusercontent.com/sihan0502/TVBox/SH/SH/tv/live.txt
 
-28. IPV6央卫+大量埋堆堆,http://home.jundie.top:81/Cat/tv/live.txt
+30. IPV6央卫+大量埋堆堆,http://home.jundie.top:81/Cat/tv/live.txt
 
-29. 不知名大佬源1,https://l.gmbbk.com/upload/14781478.txt
+31. 不知名大佬源1,https://l.gmbbk.com/upload/14781478.txt
 
-30. 不知名大佬源2,http://122.228.85.203:5988/uploads/txt
+32. 不知名大佬源2,http://122.228.85.203:5988/uploads/txt
 
 
 #### AList资源（如何手机端连接不上，请使用PC端访问）
