@@ -80,34 +80,35 @@ https://testflight.apple.com/join/zAFJpGzc
 
 
 #### AList资源（如何手机端连接不上，请使用PC端访问）
+1. http://raykie.cn:5244, 博客云盘
 
-http://alist.vlimotion.com,VPlayer的AList，音乐、多媒体资源分享
+2. http://alist.vlimotion.com, VPlayer的AList，音乐、多媒体资源分享
 
-http://alist.xiaoya.pro,小雅的AList 大量影视 有点失效
+3. http://alist.xiaoya.pro, 小雅的AList 大量影视 有点失效
 
-https://pan.afzs.store,爱峰助手
+4. https://alist.shenzjd.com, 神帝九族
 
-https://alist.shenzjd.com,神帝九族
+5. https://alist.azad.asia, azad个人云盘 影视4k在线 电影美剧丰富、MV、学习教程等资源
 
-https://alist.azad.asia, azad个人云盘 影视4k在线 电影美剧丰富、MV、学习教程等资源
+6. https://alist.ygxz.xyz, 小站的AList
 
-https://alist.ygxz.xyz, 小站的AList
+7. https://alist.qyide.com, 轻易网盘
 
-https://alist.qyide.com, 轻易网盘
+8. https://pan.afzs.store,爱峰助手
 
-https://pan.ecve.cn, ecve网盘
+9. https://pan.ecve.cn, ecve网盘
 
-https://xue.zhoujie218.top/, zhoujie218网盘
+10. https://xue.zhoujie218.top/, zhoujie218网盘
 
-https://pan.clun.top, 雨呢网盘 视频 动漫 写真
+11. https://pan.clun.top, 雨呢网盘 视频 动漫 写真
 
-https://al.chirmyram.com, 七米蓝网盘
+12. https://al.chirmyram.com, 七米蓝网盘
 
-https://asca0121.toc.icu, 日负斗金 4K影视 动漫 剧集
+13. https://asca0121.toc.icu, 日负斗金 4K影视 动漫 剧集
 
-https://pan.arley.cn, Arley’s Drive 图片 电影 游戏
+14. https://pan.arley.cn, Arley’s Drive 图片 电影 游戏
 
-https://bdys.top/, bdys电影动漫韩剧日剧等媒体库资源，提供在线播放，个人资源低调观看
+15. https://bdys.top/, bdys电影动漫韩剧日剧等媒体库资源，提供在线播放，个人资源低调观看
 
 ### IPTV订阅源网站(PC端访问)
 
