@@ -148,4 +148,6 @@ https://testflight.apple.com/join/zAFJpGzc
 
 ### 开发者站点 （PC端访问）
 
-1.  http://haikuoshijie.cn/
+1.  http://haikuoshijie.cn/, 每日推荐
+
+2.  http://xlog.cccie.com/alist?locale=zh, alist常用网站推荐
