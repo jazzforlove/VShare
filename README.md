@@ -1,12 +1,12 @@
 ## 分享VPlayer - 视频播放器，常用资源
 
-#### 介绍
+#### 一、介绍
 为了让用户更加便捷使用VPlayer视频播放器，在此分享常用资源（VOD、IPTV、AList、Emby），声明：资源均来源于网络，请勿相信视频中广告。
 
-### Testfight
+### 二、Testfight
 https://testflight.apple.com/join/zAFJpGzc
 
-#### VOD资源 （app端使用“在线订阅”）
+#### 三、VOD资源 （app端使用“在线订阅”）
 
 1.  https://gh-proxy.com/github.com/jazzforlove/VShare/blob/main/default.json
 
@@ -14,7 +14,7 @@ https://testflight.apple.com/join/zAFJpGzc
 
 3.  https://ghgo.xyz/github.com/YYDS678/uzVideo/raw/main/video_sources_default.json
 
-#### IPTV资源 （app端使用“在线订阅”）
+#### 四、IPTV资源 （app端使用“在线订阅”）
 
 1.  iptv6电视（推荐使用）,http://ww.zouming.com/ipv6.txt
 
@@ -79,8 +79,8 @@ https://testflight.apple.com/join/zAFJpGzc
 31. 不知名大佬源2,http://122.228.85.203:5988/uploads/txt
 
 
-#### AList资源（如何手机端连接不上，请使用PC端访问）
-1. http://raykie.cn:5244, 博客云盘
+#### 五、AList资源（如何手机端连接不上，请使用PC端访问）
+1. http://raykie.cn:5244, 博客云盘（推荐）
 
 2. http://alist.vlimotion.com, VPlayer的AList，音乐、多媒体资源分享
 
@@ -110,7 +110,7 @@ https://testflight.apple.com/join/zAFJpGzc
 
 15. https://bdys.top/, bdys电影动漫韩剧日剧等媒体库资源，提供在线播放，个人资源低调观看
 
-### IPTV订阅源网站(PC端访问)
+### 六、IPTV订阅源网站(PC端访问)
 
 1.  http://aktv.top/
 
@@ -124,11 +124,11 @@ https://testflight.apple.com/join/zAFJpGzc
 
 6.  https://live.kilvn.com/
 
-### 电影网站（PC端访问）
+### 七、电影网站（PC端访问）
 
 1.  https://kimivod.com
 
-### 音乐网站（PC端访问）
+### 八、音乐网站（PC端访问）
 
 1.  网仰云音乐,http://mc.alger.fun/#/
 
@@ -136,7 +136,7 @@ https://testflight.apple.com/join/zAFJpGzc
 
 3.  爱听音乐网,http://www.2t58.com
 
-### 图书网站 （AList可手机端访问，PC端访问）
+### 九、图书网站 （AList可手机端访问，PC端访问）
 
 1.  知轩藏书—网站,https://zxcs.zip/
 
@@ -146,7 +146,7 @@ https://testflight.apple.com/join/zAFJpGzc
 
 4.  期刊杂志—AList,https://cloud.duzhege.cn/
 
-### 115网盘资源
+### 十、115网盘资源
 
 1.新5000t超级合集更新限时保存, https://docs.qq.com/sheet/DZUJBeGdHU3V1Vlp4
  
@@ -154,7 +154,7 @@ https://testflight.apple.com/join/zAFJpGzc
  
 3.号超级合集转存, https://quanxingdaohang.com/go/10040631
 
-### 开发者站点 （PC端访问）
+### 十一、开发者站点 （PC端访问）
 
 1.  http://haikuoshijie.cn/, 每日推荐
 
