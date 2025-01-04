@@ -94,7 +94,7 @@ https://testflight.apple.com/join/zAFJpGzc
 
 7. https://alist.qyide.com, 轻易网盘
 
-8. https://pan.afzs.store,爱峰助手
+8. https://pan.afzs.store, 爱峰助手，软件推荐
 
 9. https://pan.ecve.cn, ecve网盘
 
@@ -145,6 +145,14 @@ https://testflight.apple.com/join/zAFJpGzc
 3.  期刊杂志—网站,https://duzhege.cn/
 
 4.  期刊杂志—AList,https://cloud.duzhege.cn/
+
+### 115网盘资源
+
+1.新5000t超级合集更新限时保存, https://docs.qq.com/sheet/DZUJBeGdHU3V1Vlp4
+ 
+2.聚合合集更新学习, https://kdocs.cn/l/cd4DEWVt5p3b
+ 
+3.号超级合集转存, https://quanxingdaohang.com/go/10040631
 
 ### 开发者站点 （PC端访问）
 
