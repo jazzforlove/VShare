@@ -3,14 +3,10 @@
 #### 一、介绍
 为了让用户更加便捷使用VPlayer视频播放器，在此分享常用资源（VOD、IPTV、AList、Emby），声明：资源均来源于网络，请勿相信视频中广告。
 
-安装路径：
-我用夸克网盘分享了「VPlayer」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
-
+### 二、ipa安装路径，请勿充值会员：
+我用夸克网盘分享了「VPlayer」，点击链接即可保存。打开「夸克APP」
 
 链接：https://pan.quark.cn/s/8dd8cf8f47c1
-
-### 二、Testfight
-https://testflight.apple.com/join/zAFJpGzc
 
 #### 三、VOD资源 （app端使用“在线订阅”）
 
